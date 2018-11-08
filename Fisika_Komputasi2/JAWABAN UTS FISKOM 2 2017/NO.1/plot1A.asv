@@ -1,0 +1,6 @@
+
+for x=1:1000
+z(x-)=x*x-2-5*exp(-x);
+end
+
+plot (z)

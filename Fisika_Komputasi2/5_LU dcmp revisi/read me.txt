@@ -1,0 +1,35 @@
+Kepada seluruh peserta FisKom-2 Kls A.
+
+Berikut saya kirimkan:
+- Code LUdcmp.f90 yang merupakan revisi code yang telah dikirim kepada kalian terdahulu.
+- Code LUdcmp_ext.f90 yang merupakan ekstensi dari LUdcmp.f90 untuk menyelesaikan pers matrix AX=B di mana A matrix NxN, X matrix NxM, dan matrix NxM. A dan B diketahui, dan X ingin ditentukan.
+- File data_matrix_ext.dat untuk data matrix terkait code LU_dcmp _ext.f90. 
+
+TUGAS ke-3:
+
+1. Pada code LUdcmp_ext.f90 yang saya kirim bersama email ini, tambahkan blok untuk menukar baris matrix X sebagai konsekuensi dari telah terjadinya pertukaran baris pada matrix A. 
+
+2. Modifikasi code metode LU dcmp (yang sudah dilengkapi hasil pekerjaan soal no 1 di atas) untuk menjadi code yang mengerjakan problem AX=B yang sama tetapi dengan sekarang menggunakan metode Eliminasi Gauss.
+
+3. Gunakan code hasil pekerjaan soal no 1 dan no 2 di atas (secara terpisah) untuk memecahkan soal matrix berikut ini:
+
+Diberikan persamaan matrix AX=B, dengan diketahui:
+
+A=
+2	-4	1	3
+-1	2	3	-2
+3	-4	1	2
+1	-3	-1	5
+
+B=
+10   -15   42     9    38
+10   -15     9   15    12
+14   -21   45   15    42
+-6       9    21  -14   13
+
+Tentukan X.
+
+Deadline pengumpulan: Minggu, 21 Okt 2018 jam 23.59.
+Dikumpulkan ke: hmdsyahroni@gmail.com
+
+SELAMAT MENGERJAKAN. 

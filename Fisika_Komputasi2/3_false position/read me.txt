@@ -1,0 +1,10 @@
+Kepada seluruh peserta FisKom 2 - A,
+
+Pelajari dan praktekkan codes False Position terlampir.
+Kemudian, kerjakan tugas berikut:
+Modofikasi code bisection atau false position yang pernah saya berikan ke kalian sehingga menjadi codes untuk metode:
+- Newton-Raphson
+- Secant
+Deadline: 7 Oktober 2018, jam 23.59 WIB
+
+Selamat mengerjakan.

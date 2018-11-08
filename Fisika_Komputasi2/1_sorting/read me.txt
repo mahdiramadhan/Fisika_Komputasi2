@@ -1,0 +1,14 @@
+Kepada seluruh peserta FisKom 2 Kls A:
+
+Terlampir contoh-contoh code F90 untuk latihan.
+
+PR ke-1:
+Modikasi file sorting.f90 terlampir untuk mengurutkan daftar nama dan nilai menurut abjad nama.
+
+File code hasil modifikasi dikirimkan via email ke:
+
+Ahmad Syahroni (Assisten Kuliah Fis Kom 2 - A)
+Email: hmdsyahroni@gmail.com
+Subject: PR1 FK2 Nama NPM
+
+Deadline: Minggu, 23 September 2018, jam 23.59 WIB.

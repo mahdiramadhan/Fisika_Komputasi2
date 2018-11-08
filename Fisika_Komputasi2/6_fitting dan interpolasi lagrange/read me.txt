@@ -1,0 +1,19 @@
+Kepada seluruh peserta kuliah Fisika Komputasi 2 - Kelas A
+
+Terlampir saya kirim codes:
+- Fittiing (Fitting.f90 dan sub_LUdcmp.f90)
+- Interpolasi Lagrange (intpls_Lagrange.f90)
+
+Note: 
+Untuk code Fitting, saya telah lakukan beberapa perubahan, antara lain saya tidak jadi memakai "module", dan saya hilangkan "allocations". Pelajari betul cara kerja code Fitting.f90 yang sudah jalan ini. Pahami pula bagaimana subroutine LUdcmp dihasilkan dari yang sebelumnya berformat main code. Pahami juga bagaimana bekerjanya subroutine tsb.
+
+Untuk latihan saja:
+
+-  Di code Fitting.f90 yang saya kirim ini, saya set M=5. Kamu ganti-gantilah nilai M menjadi 3,7,9, lalu run dan plotlah kurva yang dihasilkan dengan gnuplot.
+
+- Pahami code interpolasi Lagrange yang saya kirim, pahami algoritmanya baris per baris dengan membandingkan dengan rumus-rumus yang ada di lecture note Pak Imam. Praktekkanlah dengan menerapkannya pada data medan listrik yang diberikan di email ini. Ingat, gunakan tanda "<" untuk membaca dari inputfile, dan ">" untuk menulis ke outputfile.
+
+PR ke-4:
+Modifikasi code intpls_Lagrange.f90 untuk menjadi code yang bekerja dengan metode Lagrange Kubik. Sebagaimana saya jelaskan di kelas, untuk interval-inverval di ujung kiri dan kanan gunakan saja interpolasi liner, sedangkan di daerah lainnya terapkan Interpolasi Lagrange Kubik. Kumpulkan: code hasil modifikasi, data input, data hasil, dan plot dari data hasil. Deadline: Minggu 11 Novemver 2018, jam 23.59, ke Ahmad Syahroni (hmdsyahroni@gmail.com).
+
+SELAMAT MENGERJAKAN!
